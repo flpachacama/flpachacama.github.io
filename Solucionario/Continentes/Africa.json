@@ -1,0 +1,24 @@
+{
+  "Africa": {
+    "NIGERIA": {
+      "LAGOS": ["LAGOS", "VICTORIA ISLAND", "IKOYI"],
+      "ABUJA": ["ABUJA"],
+      "KANO": ["KANO", "KATSINA", "ZARIA"]
+    },
+    "SOUTH AFRICA": {
+      "GAUTENG": ["JOHANNESBURG", "PRETORIA", "SANDTON"],
+      "KWAZULU-NATAL": ["DURBAN", "PIETERMARITZBURG", "UMHLANGA"],
+      "WESTERN CAPE": ["CAPE TOWN", "STELLENBOSCH", "PAARL"]
+    },
+    "EGYPT": {
+      "CAIRO": ["CAIRO", "GIZA", "HELIOPOLIS"],
+      "ALEXANDRIA": ["ALEXANDRIA", "ROSSETTA"],
+      "LUXOR": ["LUXOR", "ASWAN"]
+    },
+    "KENYA": {
+      "NAIROBI": ["NAIROBI", "MUTHAIGA", "LANGATA"],
+      "MOMBASA": ["MOMBASA", "DIANI", "NYALI"],
+      "KISUMU": ["KISUMU", "KAKAMEGA", "BONDO"]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Asia": {
+    "JAPON": {
+      "TOKYO": ["TOKYO", "SHIBUYA", "SHINJUKU"],
+      "OSAKA": ["OSAKA", "UMEDA", "NAMBA"],
+      "KYOTO": ["KYOTO", "GION", "ARASHIYAMA"]
+    },
+    "CHINA": {
+      "BEIJING": ["BEIJING", "FORBIDDEN CITY", "GREAT WALL"],
+      "SHANGHAI": ["SHANGHAI", "THE BUND", "YU GARDEN"],
+      "HONG KONG": ["HONG KONG", "VICTORIA PEAK", "DISNEYLAND"]
+    },
+    "INDONESIA": {
+      "JAKARTA": ["JAKARTA", "MONAS", "OLD TOWN"],
+      "BALI": ["BALI", "UBUD", "KUTA"],
+      "YOGYAKARTA": ["YOGYAKARTA", "PRAMBANAN", "SULTAN PALACE"]
+    },
+    "INDIA": {
+      "DELHI": ["DELHI", "INDIA GATE", "LOTUS TEMPLE"],
+      "MUMBAI": ["MUMBAI", "GATEWAY OF INDIA", "ELEPHANTA CAVES"],
+      "JAIPUR": ["JAIPUR", "HAWA MAHAL", "AMBER FORT"]
+    }    
+  }
+}

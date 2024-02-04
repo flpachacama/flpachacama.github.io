@@ -1,0 +1,21 @@
+{
+  "America": {
+    "ECUADOR": {
+      "Pichincha": ["QUITO", "CAYAMBE", "RUMIÑAHUI"],
+      "Guayas": ["GUAYAQUIL", "DAULE", "SAMBORONDON", "BAEZA"],
+      "Azuay": ["Cuenca"],
+      "Manabi": ["ROCAFUERTE", "CHONE"],
+      "Tunguragua": ["Ambato"]
+    },
+    "ESTADOS UNIDOS": {
+      "NEW YORK": ["BUFALO", "ALBANY", "TROY", "NEW YORK"],
+      "PENSILVANNIA": ["FILALDEFIA", "PISTBURG"],
+      "FLORIDA": ["MIAMI", "ORLANDO", "TAMPA", "FORT LOUDARLE"],
+      "COLORADO": ["GOLDEN", "AVON", "DURANGO", "COMMERCECITY", "STERLING", "PUEBLOWEST"]
+    },
+    "COLOMBIA": {
+      "ANTIOQUIA": ["MEDELLIN", "PASTO", "CARTAGENA", "CALI"],
+      "ARAUCA": ["RUMBA", "BOGOTA", "BARANQUILLA"]
+    }
+  }
+}

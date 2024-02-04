@@ -1,0 +1,23 @@
+{
+  "Oceania": {
+    "AUSTRALIA": {
+      "NEW SOUTH WALES": ["SYDNEY", "NEWCASTLE", "WOLLONGONG", "CENTRAL COAST"],
+      "VICTORIA": ["MELBOURNE", "GEELONG", "BALLARAT", "BENDIGO"],
+      "QUEENSLAND": ["BRISBANE", "GOLD COAST", "CAIRNS", "SUNSHINE COAST"]
+    },
+    "NEW ZEALAND": {
+      "NORTH ISLAND": ["AUCKLAND", "WELLINGTON", "HAMILTON", "TAURANGA"],
+      "SOUTH ISLAND": ["CHRISTCHURCH", "DUNEDIN", "QUEENSTOWN", "NELSON"]
+    },
+    "PAPUA NEW GUINEA": {
+      "PORT MORESBY": ["PORT MORESBY", "LAE", "MADANG", "MOUNT HAGEN"],
+      "LAE": ["LAE", "MADANG", "GOROKA"],
+      "MADANG": ["MADANG", "WIWAK", "VANIMO"]
+    },
+    "FIJI": {
+      "SUVA": ["SUVA", "NADI", "LAMI", "NASINU"],
+      "NADI": ["NADI", "LAUTOKA", "BA"],
+      "LABASA": ["LABASA", "SAVUSAVU", "DREKETI"]
+    }
+  }
+}

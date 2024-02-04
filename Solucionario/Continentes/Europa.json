@@ -1,0 +1,21 @@
+{
+  "Europa": {
+    "ESPANA": {
+      "MADRID": ["MADRID"],
+      "CATALUNYA": ["BARCELONA", "GIRONA", "LLEIDA", "TARRAGONA", "KANOHA"],
+      "ANDALUCIA": ["SEVILLA", "MALAGA", "GRANADA", "CORDOBA"],
+      "FRANCIA": ["PARIS", "MARSEILLE", "LYON", "TOULOUSE"],
+      "AMBITE": ["AKIRA"]
+    },
+    "ITALIA": {
+      "LOMBARDIA": ["MILANO", "BERGAMO", "BRESCIA"],
+      "TOSCANA": ["FIRENZE", "SIENA", "PISA"],
+      "VENETO": ["VENICE", "VERONA", "PADUA"]
+    },
+    "ALEMANIA": {
+      "BERLIN": ["BERLIN"],
+      "BAVIERA": ["MUNICH", "NUREMBERG", "AUGSBURG"],
+      "NORDRHEIN-WESTFALEN": ["COLOGNE", "DUSSELDORF", "ESSEN"]
+    }
+  }
+}
